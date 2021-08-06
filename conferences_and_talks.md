@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferences and talks
+title: Conferences / talks
 permalink: /conferences_and_talks/
 ---
    
