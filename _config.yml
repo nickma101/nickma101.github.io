@@ -3,31 +3,30 @@ theme: minima
 minima:
   skin: solarized.scss 
   date_format: "%d %m %Y
-  
-title: Nicolas Mattis (PhD@VU)
-author:
-  name: Nicolas Mattis
-  email: n.m.mattis@vu.nl
 
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  title: Nicolas Mattis (PhD@VU)
+  author:
+    name: Nicolas Mattis
+    email: n.m.mattis@vu.nl
+
+  description: > # this means to ignore newlines until "baseurl:"
+    Write an awesome description for your new site here. You can edit this
+    line in _config.yml. It will appear in your document head meta (for
+    Google search results) and in your feed.xml site description.
  
- 
-header_pages:
- - about.md
- - publications.md
+  header_pages:
+   - about.md
+   - publications.md
 
-include: footer.html
+  include: footer.html
 
-# social links
-twitter_username: MattisNicolas
-github_username:  nickma101
-linkedin: nicolas-mattis-41464a106
+  # social links
+  twitter_username: MattisNicolas
+  github_username:  nickma101
+  linkedin: nicolas-mattis-41464a106
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  plugins:
+   - jekyll-feed
+   - jekyll-seo-tag
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+  show_excerpts: true # set to false to remove excerpts on the homepage
