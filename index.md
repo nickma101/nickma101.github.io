@@ -8,7 +8,7 @@
 layout: home
 ---
 <div>
-<img src="image.jpg" width="200" height="200" style="vertical-align:middle"/>
+<img src="image.jpg" width="200" height="200"/>
 </div>
 
 <p STYLE="margin:40px 0px 40px"> Hi there! I am a communication science PhD candidate interested in news selection and computational methods. Feel free to hit me up if you like my work.]</p>
