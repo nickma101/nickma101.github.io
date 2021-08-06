@@ -1,5 +1,13 @@
 ---
-title: "Welcome to my blog"
+title: "About me"
 ---
 
 Just practicing 
+
+
+---
+title: "Academic work"
+---
+
+Just practicing 
+
