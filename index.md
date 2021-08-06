@@ -7,3 +7,7 @@
 #
 layout: home
 ---
+
+<img src="image.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
