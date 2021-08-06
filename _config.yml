@@ -1,12 +1,5 @@
 theme: minima
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-
 title: Nicolas Mattis (PhD@VU)
 author: Nicolas Mattis
 email: n.m.mattis@vu.nl
@@ -15,6 +8,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+  
+header_pages:
+ - about.md
+ - publications.md
   
 # social links
 twitter_username: MattisNicolas
