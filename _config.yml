@@ -14,5 +14,6 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: MattisNicolas
 github_username:  nickma101
+linkedin: nicolas-mattis-41464a106
 
 show_excerpts: true # set to false to remove excerpts on the homepage
