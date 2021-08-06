@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <div>
 <img src="image2.jpg" width="200" height="200"/>
 </div>
