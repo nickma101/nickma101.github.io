@@ -3,9 +3,7 @@ author:
   name: Nicolas Mattis
   email: n.m.mattis@vu.nl
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Interested in diversity-aware newsrecommender design or computational communication science more broadly? Check out the [interdisciplinary project](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/) I am working on or the work of [CCS Amsterdam](http://ccs.amsterdam/).
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
