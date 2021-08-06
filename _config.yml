@@ -19,10 +19,10 @@ minima:
 #   - teaching.md
 #   - blog.md
   
-minima.social_links:
-  twitter_username: MattisNicolas
-  github_username:  nickma101
-  linkedin: nicolas-mattis-41464a106
+  social_links:
+    twitter_username: MattisNicolas
+    github_username:  nickma101
+    linkedin: nicolas-mattis-41464a106
   
 # Build settings
 # theme: minima
