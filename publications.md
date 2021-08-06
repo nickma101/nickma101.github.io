@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## Conference Proceedings
 [Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content](https://aclanthology.org/2021.nlp4posimpact-1.6/)
+
 [Implementing Evaluation Metrics Based on Theories of Democracy in News Comment Recommendation (Hackathon Report)](https://aclanthology.org/2021.hackashop-1.19/)
 
 ##Pre-prints:
