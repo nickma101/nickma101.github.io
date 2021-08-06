@@ -1,7 +1,7 @@
 theme: minima
 
 minima:
-  skin: solarized-dark.scss 
+  skin: solarized.scss 
   date_format: "%d %m %Y
   
 title: Nicolas Mattis (PhD@VU)
