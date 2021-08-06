@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Interested in diversity-aware newsrecommender design or computational communication science more broadly? Feel free to reach out and defintely check out some of the awesome research that is going on at CCS Amsterdam.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to false to hide excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
