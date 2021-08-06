@@ -7,6 +7,5 @@
 #
 layout: home
 ---
-<img src="image.jpg" alt="profile" style="width:20px;"/>
 <img src="image.jpg" width="200" height="200" />
 Hi there! I am a communication science PhD candidate interested in news selection and computational methods. Feel free to hit me up if you like my work.]
