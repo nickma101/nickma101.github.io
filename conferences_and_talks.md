@@ -14,7 +14,11 @@ permalink: /conferences_and_talks/
 ### Past conferences and talks
 
 * *August 2021*    **ACL 2021**
+  * Position Paper: [Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content](https://aclanthology.org/2021.nlp4posimpact-1.6/)
+  * Keywords: *NLP, News Recommenders, News Diversity, Nudging*
 * *May 2021*       **ICA 2021**
+  * Empirical Paper: "Assessing Political News Quality: An Automated Comparison of Political News Quality Indicators Across German Newspapers"
+  * Keywords: ...
 * *March 2021*     **EACL 2021**
 * *March 2021*     **Guest lecture at RCHSS Academia Sinica**
 * *February 2021*  **ETMAAL 2021**
