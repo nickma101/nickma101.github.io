@@ -14,18 +14,16 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 minima:
   skin: solarized.scss 
   date_format: "%d %m %Y
-
   header_pages:
    - about.md
    - publications.md
-
-  include: footer.html
-
+  include: 
+    footer.html
   # social links
   twitter_username: MattisNicolas
   github_username:  nickma101
   linkedin: nicolas-mattis-41464a106
-
+  
 # Build settings
 theme: minima
 
