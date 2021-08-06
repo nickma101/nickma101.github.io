@@ -20,8 +20,8 @@ minima:
 #   - blog.md
   
   social_links:
-    twitter_username: jekyllrb
-    github_username:  nickma101
+    twitter: MattisNicolas
+    github:  nickma101
     linkedin: nicolas-mattis-41464a106
   
 # Build settings
