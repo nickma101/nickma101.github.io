@@ -15,8 +15,7 @@ header_pages:
  - about.md
  - publications.md
 
-include: 
-footer.html
+include: footer.html
 
 # social links
 twitter_username: MattisNicolas
