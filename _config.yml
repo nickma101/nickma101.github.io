@@ -1,5 +1,5 @@
 minima:
-  skin: dark
+  skin: solarized-dark.scss 
 
 title: Nicolas Mattis (PhD@VU)
 author:
