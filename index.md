@@ -7,6 +7,6 @@
 #
 layout: home
 ---
-![](image.jpg | width=20)
+![](image.jpg = 20x20)
 
 Hi there! I am a communication science PhD candidate interested in news selection and computational methods. Feel free to hit me up if you like my work.]
