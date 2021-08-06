@@ -8,3 +8,4 @@
 layout: home
 ---
 
+**New Pre-print:** [Nudging news diversity: A theoretical framework for facilitating diverse news consumption through recommender design](https://osf.io/preprints/socarxiv/wvxf5/)
