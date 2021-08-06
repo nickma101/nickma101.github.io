@@ -10,24 +10,6 @@ layout: home
 
 <img src="image.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ____________________________________
+Hi there! I am a communication science PhD candidate interested in news selection and computational methods. Feel free to hit me up if you like my work.
