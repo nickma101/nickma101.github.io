@@ -17,6 +17,9 @@ minima:
   header_pages:
    - about.md
    - publications.md
+   - conferences_and_talks.md
+#   - teaching.md
+#   - blog.md
   
 minima.social_links:
   twitter_username: MattisNicolas
