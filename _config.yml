@@ -1,4 +1,5 @@
-theme: minima:
+theme: minima: 
+minima:
 skin: dark
 
 title: Nicolas Mattis (PhD@VU)
@@ -20,4 +21,8 @@ github_username:  nickma101
 linkedin: nicolas-mattis-41464a106
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
