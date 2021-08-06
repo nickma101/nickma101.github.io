@@ -7,7 +7,5 @@
 #
 layout: home
 ---
-<img align="left" src="image.jpg">
 
-\vspace*{\fill}
-Hi there! I am a communication science PhD candidate interested in news selection and computational methods. Feel free to hit me up if you like my work.
+![Hi there! I am a communication science PhD candidate interested in news selection and computational methods. Feel free to hit me up if you like my work.](image.jpg){width=50%}
