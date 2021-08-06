@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img src="image.jpg" <style type="text/css">.image-left {
+<img src="image.jpg" <style type="text/css">.image-left{
 display: block;
 margin-left: auto;
 margin-right: auto;
