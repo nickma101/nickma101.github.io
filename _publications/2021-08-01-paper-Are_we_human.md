@@ -7,7 +7,6 @@ date: 2022-06-29
 venue: 'Proceedings of the 1st Workshop on NLP for Positive Impact'
 paperurl: 'https://aclanthology.org/2021.nlp4posimpact-1.6/'
 citation: 'Reuver, M., Mattis, N., Sax, M., Verberne, S., Tintarev, N., Helberger, N., ... & van Atteveldt, W. (2021, August). Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content. In <i>Proceedings of the 1st Workshop on NLP for Positive Impact</i> (pp. 47-59).'
-  
 ---
 In this position paper, we present a research agenda and ideas for facilitating exposure to diverse viewpoints in news recommendation.
 
