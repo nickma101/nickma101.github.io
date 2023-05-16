@@ -9,26 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+### Education
 * Ph.D in Communication Science, Vrije Universiteit Amsterdam, 2024 (expected)
 * Res M.Sc. in Communication Science, University of Amsterdam, 2020
 * B.Sc. in International Media and Communication, Erasmus University Rotterdam, 2017
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Work experience
+* Since Sep 2020: PhD candidate
+  * Vrije Universiteit Amsterdam
+  * Supervisors: Wouter van Atteveldt, Judieth Moeller, Philipp K. Masur
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
+* Sep 2019 - Nov 2019: Graduate Teaching Assistant
+  * University of Amsterdam
+  * Duties: Teaching
+
+* May 2018 - Aug 2018: English Summer Teacher
+  * Apollo English, Hanoi, Vietnam
+  * Duties: Teaching, Lesson planning
+
+* Jan 2018 - Feb 2018: PR Intern
+  * Agentur K1, Cologne, Germany
+  * Duties: Press releases, writing, editing, strategy, social media management
+
+### Skills
 * Research methods
   * experimental research
   * computational methods (incl. automated text analysis and web-scraping)
