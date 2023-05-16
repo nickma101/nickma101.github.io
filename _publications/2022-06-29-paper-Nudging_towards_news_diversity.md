@@ -6,11 +6,9 @@ excerpt: 'Growing concern about the democratic impact of automatically curated n
 date: 2022-06-29
 venue: 'New Media & Society'
 paperurl: 'https://doi.org/10.1177/14614448221104413'
-citation: 'Mattis et al. (2022) &quot;Paper Nudging towards news diversity: A theoretical framework for facilitating diverse news consumption through recommender design.&quot; <i>New Media & Society</i>. 1(1).'
+citation: 'Mattis, N., Masur, P., Möller, J., & van Atteveldt, W. (2022). Nudging towards news diversity: A theoretical framework for facilitating diverse news consumption through recommender design. <i>new media & society</i>, 14614448221104413.'
 ---
-In this paper we conduct an interdisciplinary literature review and, based thereupon, propose five diversity nudges as well as a theoretical framework that can help assess their respective benefits and limitations. 
 
+In this paper we conduct an interdisciplinary literature review and, based thereupon, propose five diversity nudges as well as a theoretical framework that can help assess their respective benefits and limitations.
 
 [Download paper here](http://nickma101.github.io/files/Nudging_towards_news_diversity.pdf)
-
-Recommended citation: Mattis, N., Masur, P., Möller, J., & van Atteveldt, W. (2022). Nudging towards news diversity: A theoretical framework for facilitating diverse news consumption through recommender design. <i>new media & society</i>, 14614448221104413.
