@@ -8,19 +8,10 @@ date: 2019-10-01
 location: "Amsterdam, The Netherlands"
 ---
 
-Course:  "Persuasive communication - Academic Writing"
+**Course:**  "Persuasive communication - Academic Writing"
 
-Role: Tutorial Teacher
+**Role:** Tutorial Teacher
 
-Tasks:
+### **Tasks:**
 - teaching tutorials
 - grading
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
