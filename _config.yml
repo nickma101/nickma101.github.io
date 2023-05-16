@@ -85,9 +85,8 @@ author:
   bio              : "PhD candidate | News selection & nudging in recommender systems, computational methods"
   location         : "Amsterdam"
   employer         : "Vrije Universiteit Amsterdam"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=OuJCoVcAAAAJ&hl=en&inst=4393003693960974403&oi=ao"
+  email            : "n.m.mattis@vu.nl"
   researchgate     : "https://www.researchgate.net/profile/Nicolas_Mattis"
   uri              :
   bitbucket        :
@@ -103,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://linkedin.com/in/nicolas-mattis-41464a106"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5110-6612"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
