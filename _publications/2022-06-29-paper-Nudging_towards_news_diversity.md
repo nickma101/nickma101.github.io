@@ -8,8 +8,9 @@ venue: 'New Media & Society'
 paperurl: 'https://doi.org/10.1177/14614448221104413'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper we conduct an interdisciplinary literature review and, based thereupon, propose five diversity nudges as well as a theoretical framework that can help assess their respective benefits and limitations. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://nickma101.github.io/files/Nudging_towards_news_diversity.pdf)
+
+Recommended citation: Mattis, N., Masur, P., Möller, J., & van Atteveldt, W. (2022). Nudging towards news diversity: A theoretical framework for facilitating diverse news consumption through recommender design. <i>new media & society</i>, 14614448221104413.
