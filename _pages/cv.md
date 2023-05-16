@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Communication Science, Vrije Universiteit Amsterdam, 2024 (expected)
+* Res M.Sc. in Communication Science, University of Amsterdam, 2020
+* B.Sc. in International Media and Communication, Erasmus University Rotterdam, 2017
 
 Work experience
 ======
@@ -29,12 +29,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research methods
+  * experimental research
+  * computational methods (incl. automated text analysis and web-scraping)
+  * qualitative interviewing
+* Coding languages
+  * Python
+  * R
+  * React
+* Languages
+  * German (native)
+  * English (C2)
+  * Dutch (C1)
 
 Publications
 ======
