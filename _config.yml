@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Nicolas Mattis"
   avatar           : "profile.png"
-  bio              : "PhD candidate at Vrije Universiteit Amsterdam"
+  bio              : "PhD candidate | News selection & nudging in recommender systems, computational methods"
   location         : "Amsterdam"
-  employer         :
+  employer         : "Vrije Universiteit Amsterdam"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Nicolas_Mattis"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/nicolas-mattis-41464a106"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MattisNicolas"
   vine             :
   weibo            :
   xing             :
