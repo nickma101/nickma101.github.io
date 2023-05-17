@@ -46,6 +46,7 @@ redirect_from:
   * Python
   * R
   * React
+  * HTML
 * Languages
   * German (native)
   * English (C2)
