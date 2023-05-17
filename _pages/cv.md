@@ -15,6 +15,11 @@ redirect_from:
 * Res M.Sc. in Communication Science, University of Amsterdam, 2020
 * B.Sc. in International Media and Communication, Erasmus University Rotterdam, 2017
 
+### Certificates & Summer Schools
+* 2022 - University Teaching Qualification, Learn Academy Vrije Universiteit Amsterdam 
+* 2022 - 19th EURAI Advanced course on AI (ACAI) and 2nd Tailor Summer school, Barcelona
+* 2017 - CELTA Training, London School of Languages, San Sebastian
+
 ### Work experience
 * Since Sep 2020: PhD candidate
   * Vrije Universiteit Amsterdam
