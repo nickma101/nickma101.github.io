@@ -9,9 +9,9 @@ author_profile: true
 
 
 ### Event organisation
-* QUARE (co-located with RecSys): 2nd Workshop on Measuring the Quality of Explanations  in Recommender Systems (virtual) -
+* QUARE 2023 (co-located with RecSys): 2nd Workshop on Measuring the Quality of Explanations  in Recommender Systems (virtual)
   * Tasks: Planning & panel moderation
-  * https://sites.google.com/view/quare-2023/home?authuser=0
+  * https://sites.google.com/view/quare-2023/home
 * ICA 2023 post-conference: Beyond Nudging, Towards Diversity: Understanding Transparent Algorithmic Recommendation Practices for Media and Communications
   * Tasks: Planning and pannel moderation
   * https://www.icahdq.org/mpage/CFP_PostConfBeyondNudging
