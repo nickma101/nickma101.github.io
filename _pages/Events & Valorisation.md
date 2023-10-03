@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Events & Valorisation"
+title: "Event organisation"
 permalink: /events/
 author_profile: true
 ---
@@ -9,11 +9,13 @@ author_profile: true
 
 
 ### Event organisation
-* QUARE (co-located with RecSys): 2nd Workshop on Measuring the Quality of Explanations  in Recommender Systems (virtual)
+* QUARE (co-located with RecSys): 2nd Workshop on Measuring the Quality of Explanations  in Recommender Systems (virtual) -
+  * Tasks: Planning & panel moderation
+  * https://sites.google.com/view/quare-2023/home?authuser=0
 * ICA 2023 post-conference: Beyond Nudging, Towards Diversity: Understanding Transparent Algorithmic Recommendation Practices for Media and Communications
-* Stakeholder workshop
-
-### Valorisation
-* Stakeholder workshop
-* 
+  * Tasks: Planning and pannel moderation
+  * https://www.icahdq.org/mpage/CFP_PostConfBeyondNudging
+* Stakeholder workshop on nudging towards diversity (incl. media partners, academics, and regulators)
+  * Tasks: Planning and session moderation
+  * Workshop report available on request
 
