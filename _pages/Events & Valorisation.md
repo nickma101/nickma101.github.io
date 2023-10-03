@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-### Event organisation
+### Workshops and pre-/post- conferences
 * QUARE 2023 (co-located with RecSys): 2nd Workshop on Measuring the Quality of Explanations  in Recommender Systems (virtual)
   * Tasks: Planning & panel moderation
   * https://sites.google.com/view/quare-2023/home
