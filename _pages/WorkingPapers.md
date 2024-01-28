@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Event organisation"
-permalink: /events/
+title: "Working papers"
+permalink: /workingpapers/
 author_profile: true
 ---
 

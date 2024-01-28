@@ -3,14 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Working papers"
+    url: /workingpapers/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Event organisation"
     url: /events/
+
+  - title: "CV"
+    url: /cv/
+
+
