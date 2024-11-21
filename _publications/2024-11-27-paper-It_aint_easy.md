@@ -1,0 +1,3 @@
+In this paper we conduct a 2 (low vs. high levels of activating language) by 3 (low vs medium vs high levels of alternative voices) between subjects experiment with N=715 respondents to test how normatively driven news diversification affect readers' (a) policy support, (b) outcome tolerance, (c) outgroup tolerance, and (d) political participation.
+
+[Download paper here](http://nickma101.github.io/files/It_aint_easy.pdf)

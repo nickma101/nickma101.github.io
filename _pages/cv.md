@@ -21,7 +21,10 @@ redirect_from:
 * 2017 - CELTA Training, London School of Languages, San Sebastian
 
 ### Work experience
-* Since Sep 2020: PhD candidate
+* Since Oct 2024: Postdoc at ASCoR, affiliated with the AI Media and Democracy Lab
+  * University of Amsterdam
+  * Supervisor: Claes de Vreese
+* Sep 2020 - Aug 2024: PhD candidate
   * Vrije Universiteit Amsterdam
   * Supervisors: Wouter van Atteveldt, Judieth Moeller, Philipp K. Masur
 
